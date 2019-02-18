@@ -12,7 +12,8 @@ Custom components Eagle footprints used in the project are available [here](http
 
 # Pictures
 
-![LTSPICE schematic](https://lh3.googleusercontent.com/-KUyU7xWszew/W3VIJq2t_oI/AAAAAAAACEM/r9Q3OPkvYh44PJi9D9SKiGYigg8_YP9DACHMYCw/s1600-h/Image%2B2%255B4%255D)
-![EAGLE PCB circuit](https://lh3.googleusercontent.com/-3jqFU0lLeRI/W3VIO08LtsI/AAAAAAAACEk/BZJGPfvjTh816O449UDmQVKaUKUF-KpdgCHMYCw/s1600-h/Image%2B5%255B3%255D)
-![EAGLE PCB layout](https://lh3.googleusercontent.com/-J1mmJPzVxoU/W3VIRjHCQ7I/AAAAAAAACEs/Z0M51khon2EpR8LiP2lVQMiruAbt8RU-gCHMYCw/s1600-h/Image%2B6%255B3%255D)
-![The actual PCB in action](https://lh3.googleusercontent.com/-NfmF200_3gs/W3VIV3tSSxI/AAAAAAAACE8/BiKOPcoLRBgk-wvhTXLhKl_Yy66jZcDEgCHMYCw/s1600-h/IMG_20180816_083401%255B3%255D)
+![LTSPICE schematic](https://user-images.githubusercontent.com/13961654/52957488-114cd300-3392-11e9-9271-25a76e2a5881.png)
+![EAGLE PCB circuit](https://user-images.githubusercontent.com/13961654/52957635-6be62f00-3392-11e9-882e-e09b694cccee.png)
+![EAGLE PCB layout](https://user-images.githubusercontent.com/13961654/52957523-232e7600-3392-11e9-9999-148b8a9d80bc.png)
+![The actual PCB in action](https://user-images.githubusercontent.com/13961654/52957534-2d507480-3392-11e9-892b-04d35ddf23a7.jpg)
+
